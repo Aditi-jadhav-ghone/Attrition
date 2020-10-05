@@ -1,0 +1,7 @@
+Documentation for employee attrition project
+
+Unnecessary columns
+    - Employee Number(Does not impact the target)
+    - Standard hours(Only single value in data)
+    - Employee Count(only single value in data)
+    - 
